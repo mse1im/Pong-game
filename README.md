@@ -1,6 +1,4 @@
-# INSDR Pong Game
-
-https://www.youtube.com/watch?v=fiShX2pTz9A
+# Pong Game
 
 We are going to develop the classic Atari game “Pong”.
 
@@ -24,10 +22,3 @@ We are going to develop the classic Atari game “Pong”.
 * Make chrome extension.
 * Give ball trail effect.
 * Save the game when pressed p and on http://corporate.lcwaikiki.com/hakkimizda page we can contuniue from where we saved after we paste your code in console
-
-### Please take the following into consideration: ###
-* The project will be tested on https://www.lcwaikiki.com/tr-TR/TR, so please develop it accordingly. (It can be an extension or run by pasting it in console).
-* The project will be deployed on bitbucket, you can clone the URL below along with the Repository onto your local environment.
-* After you’ve cloned the project, create a branch with your name under the Master branch, the created branch name should be in givenName-sirName format (e.g ian-brandon)
-* At the end of the project all changes made should be sent to the branch under the comment “FINAL COMMIT”. We will be evaluating the projects depending on what’s under this comment.
-* Repository URL: git clone https://bitbucket.org/insider-optimus/insdr-pong-game.git
